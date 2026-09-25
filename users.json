@@ -1,0 +1,55 @@
+{
+    "admin": {
+        "password": "abdouuu100",
+        "role": "abdouuu"
+    },
+    "Shadman": {
+        "password": "Boy111",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "b2be2c79",
+                "link": "b2be2c79",
+                "login_url": "/b2be2c79/login",
+                "dashboard_url": "/b2be2c79/home",
+                "full_link": "http://192.168.0.101:5000/b2be2c79/home",
+                "type": "python",
+                "ram": "512MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-11 15:36:44.372210",
+                "expiry": "2053-11-25 15:36:44.368768",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 100,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "IshrakShadman52530": {
+        "password": "ZEc2yYg4wg",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "7ad1cc15",
+                "login_url": "/7ad1cc15/login",
+                "dashboard_url": "/7ad1cc15/home",
+                "full_link": "http://localhost:5000/7ad1cc15/login",
+                "type": "python",
+                "ram": "1GB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-11 16:00:35.543118",
+                "expiry": "2026-07-14 16:00:35.532773",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
